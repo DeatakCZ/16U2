@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/Seven_Segment_Driver.production.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>494</used>                     
+      <free>15890</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>512</length>                 
+      <used>20</used>                     
+      <free>492</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
